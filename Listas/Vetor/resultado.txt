@@ -1,0 +1,41 @@
+? Iniciando avaliação de compilação.
+. :) - ok - Avaliação de compilacao.
+? Iniciando avaliação de tempo máximo de execuão.
+. :) - ok - Avaliação de tempo máximo de execução.
+? Iniciando as avaliações de execução do seu programa
+. lab-main.c : 691 : test_lista_cria : PASSOU
+. lab-main.c : 692 : test_lista_destroi : PASSOU
+. lab-main.c : 693 : test_lista_inicializada : PASSOU
+. lab-main.c : 694 : test_lista_tamanho : PASSOU
+. lab-main.c : 695 : test_lista_info_cabeca : PASSOU
+. lab-main.c : 696 : test_lista_info_cauda : PASSOU
+. lab-main.c : 697 : test_lista_info_posicao : PASSOU
+. lab-main.c : 698 : test_lista_insere_cabeca : PASSOU
+. lab-main.c : 699 : test_lista_insere_cauda : PASSOU
+. lab-main.c : 700 : test_lista_insere_posicao : PASSOU
+. lab-main.c : 701 : test_lista_remove_cabeca : PASSOU
+. lab-main.c : 702 : test_lista_remove_cauda : PASSOU
+. lab-main.c : 703 : test_lista_remove_posicao : PASSOU
+. lab-main.c : 704 : test_lista_remove_primeir : PASSOU
+. lab-main.c : 705 : test_lista_remove_todas : PASSOU
+. lab-main.c : 706 : test_lista_frequencia_inf : PASSOU
+. lab-main.c : 707 : test_lista_ordenada : PASSOU
+. lab-main.c : 708 : test_lista_insere_ordenad : PASSOU
+. lab-main.c : 709 : test_lista_compara : PASSOU
+. lab-main.c : 710 : test_lista_reverte : PASSOU
+. lab-main.c : 711 : test_lista_cria_copia : PASSOU
+. :( - !! - Nota da avaliação das funções/programa: -6.0
+? Iniciando avaliação de warnings.
+. :) - ok - Avaliação de warnings de compilação.
+? Iniciando avaliação de bibliotecas e funções proibidas.
+. :) - ok - Avaliação de bibliotecas e funções proibidas.
+? Iniciando avaliação de variáveis globais.
+. :) - ok - Avaliação de variáveis globais.
+? Iniciando avaliação de uso de memória.
+. :( - !! - Você teve 3 erros de manipulação de memória.
+. :( - !! - Estes erros irão resultar em 3.05% de desconto.
+. :( - !! - O desconto máximo é de até 25.00%
+. :( - !! - Fórmula de descontos: 25 * 1 / (1 + 10 * e^(-0.11 * erros))
+:( Desconto total de 3.05%.
+Você pode acessar os resultados da avaliacao aqui: não consegui postar o resultado...
+Notal final: -5.0
