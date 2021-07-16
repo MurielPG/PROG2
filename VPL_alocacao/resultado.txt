@@ -1,0 +1,31 @@
+? Iniciando avaliação de compilação.
+. :) - ok - Avaliação de compilacao.
+? Iniciando avaliação de tempo máximo de execuão.
+. :) - ok - Avaliação de tempo máximo de execução.
+? Iniciando as avaliações de execução do seu programa
+. lab-main.c : 410 : test_str_length : PASSOU
+. lab-main.c : 411 : test_str_duplicate : PASSOU
+. lab-main.c : 412 : test_str_compare : PASSOU
+. lab-main.c : 413 : test_str_reverse : PASSOU
+. lab-main.c : 414 : test_str_upper : PASSOU
+. lab-main.c : 415 : test_str_lower : PASSOU
+. lab-main.c : 416 : test_str_copy : PASSOU
+. lab-main.c : 417 : test_str_concatenate : PASSOU
+. lab-main.c : 418 : test_str_find_first : PASSOU
+. lab-main.c : 419 : test_str_find_last : PASSOU
+. lab-main.c : 420 : test_str_count_words : PASSOU
+. :) - ok - Nota da avaliação das funções/programa: 10.0
+? Iniciando avaliação de warnings.
+. :) - ok - Avaliação de warnings de compilação.
+? Iniciando avaliação de bibliotecas e funções proibidas.
+. :) - ok - Avaliação de bibliotecas e funções proibidas.
+? Iniciando avaliação de variáveis globais.
+. :) - ok - Avaliação de variáveis globais.
+? Iniciando avaliação de uso de memória.
+. :( - !! - Você teve 1 erros de manipulação de memória.
+. :( - !! - Estes erros irão resultar em 2.51% de desconto.
+. :( - !! - O desconto máximo é de até 25.00%
+. :( - !! - Fórmula de descontos: 25 * 1 / (1 + 10 * e^(-0.11 * erros))
+:( Desconto total de 2.51%.
+. :( - !! - Você pode acessar os resultados da avaliacao aqui: não consegui postar o resultado...
+Notal final: 9.5

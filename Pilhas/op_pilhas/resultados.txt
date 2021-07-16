@@ -1,0 +1,347 @@
+Failed tests
+Test 2: teste11
+Test 3: teste10
+Test 5: teste8
+Test 6: teste7
+Test 7: teste6
+Test 8: teste5
+Test 2: teste11
+Incorrect program output
+--- Input ---
+21
+mova 2 sobre 1
+mova 3 sobre 2
+mova 4 sobre 3
+mova 5 topo 1
+empilhe 1 topo 10
+mova 9 topo 8
+mova 11 topo 8
+empilhe 3 topo 8
+empilhe 8 topo 3
+mova 20 topo 19
+empilhe 19 topo 18
+empilhe 18 sobre 15
+mova 15 topo 3
+empilhe 20 sobre 19
+empilhe 19 sobre 18
+empilhe 18 topo 17
+sair
+
+--- Program output ---
+0: 0
+1:
+2: 2
+3:
+4:
+5:
+6: 6
+7: 7
+8: 8 9 11 3 4 15
+9:
+10: 10 1 5
+11:
+12: 12
+13: 13
+14: 14
+15:
+16: 16
+17: 17 18 20
+18:
+19: 19
+20:
+
+--- Expected output (text)---
+0: 0
+1:
+2:
+3:
+4:
+5:
+6: 6
+7: 7
+8: 8 9 11 3 4 5 15
+9:
+10: 10 1 2
+11:
+12: 12
+13: 13
+14: 14
+15:
+16: 16
+17: 17 18 19 20
+18:
+19:
+20:
+
+Test 3: teste10
+Incorrect program output
+--- Input ---
+5
+mova 3 topo 1
+mova 3 sobre 1
+empilhe 1 sobre 4
+empilhe 1 topo 2
+mova 1 sobre 3
+mova 2 topo 0
+mova 1 sobre 4
+empilhe 2 topo 3
+empilhe 3 sobre 0
+empilhe 2 topo 0
+empilhe 0 topo 3
+empilhe 2 sobre 0
+empilhe 2 sobre 0
+empilhe 3 topo 2
+mova 2 topo 2
+mova 1 topo 4
+empilhe 4 topo 4
+empilhe 2 topo 1
+empilhe 1 topo 3
+empilhe 3 sobre 2
+sair
+
+--- Program output ---
+0:
+1:
+2:
+3: 3 0 4 1 2
+4:
+
+--- Expected output (text)---
+0: 0 3 1 2
+1:
+2:
+3:
+4: 4
+
+Test 5: teste8
+Incorrect program output
+--- Input ---
+10
+mova 3 topo 1
+empilhe 3 topo 0
+mova 0 sobre 7
+empilhe 0 topo 7
+empilhe 5 topo 8
+mova 2 sobre 0
+mova 6 sobre 5
+empilhe 7 sobre 2
+empilhe 5 topo 0
+empilhe 3 sobre 7
+mova 1 sobre 4
+empilhe 7 sobre 0
+mova 0 sobre 9
+empilhe 1 sobre 1
+mova 6 topo 6
+empilhe 5 sobre 2
+empilhe 9 sobre 0
+mova 3 sobre 5
+empilhe 3 topo 0
+empilhe 2 topo 5
+mova 6 topo 1
+empilhe 1 topo 2
+empilhe 0 topo 1
+mova 7 topo 6
+empilhe 4 sobre 7
+mova 6 topo 9
+mova 2 sobre 4
+empilhe 3 topo 0
+empilhe 4 topo 6
+mova 3 sobre 6
+sair
+
+--- Program output ---
+0:
+1:
+2:
+3:
+4:
+5:
+6:
+7:
+8: 8
+9: 9 0 5 3 2 4 1 6 7
+
+--- Expected output (text)---
+0: 0
+1: 1
+2: 2
+3:
+4: 4
+5: 5
+6:
+7: 7
+8: 8
+9: 9 6 3
+
+Test 6: teste7
+Incorrect program output
+--- Input ---
+22
+empilhe 1 sobre 2
+empilhe 16 sobre 1
+empilhe 6 topo 1
+empilhe 7 topo 2
+mova 0 sobre 7
+empilhe 2 topo 21
+empilhe 21 sobre 10
+sair
+
+--- Program output ---
+0:
+1: 1
+2: 2
+3: 3
+4: 4
+5: 5
+6: 6
+7: 7 0
+8: 8
+9: 9
+10: 10 21
+11: 11
+12: 12
+13: 13
+14: 14
+15: 15
+16: 16
+17: 17
+18: 18
+19: 19
+20: 20
+21:
+
+--- Expected output (text)---
+0:
+1:
+2:
+3: 3
+4: 4
+5: 5
+6:
+7:
+8: 8
+9: 9
+10: 10 21 2 1 16 6 7 0
+11: 11
+12: 12
+13: 13
+14: 14
+15: 15
+16:
+17: 17
+18: 18
+19: 19
+20: 20
+21:
+
+
+Test 7: teste6
+Incorrect program output
+--- Input ---
+5
+mova 1 sobre 3
+mova 4 sobre 4
+empilhe 1 topo 3
+empilhe 2 topo 1
+mova 1 topo 2
+mova 4 sobre 4
+empilhe 4 topo 3
+mova 3 sobre 0
+mova 1 sobre 4
+mova 3 sobre 0
+empilhe 1 sobre 0
+mova 2 topo 3
+mova 3 topo 0
+mova 3 topo 0
+mova 3 topo 3
+mova 4 topo 3
+mova 1 topo 2
+empilhe 2 topo 3
+empilhe 3 sobre 4
+mova 3 topo 0
+empilhe 2 topo 3
+empilhe 1 sobre 2
+empilhe 4 topo 3
+empilhe 2 sobre 1
+mova 0 sobre 3
+mova 3 sobre 3
+empilhe 3 sobre 4
+mova 0 topo 0
+mova 2 topo 3
+empilhe 3 sobre 4
+mova 0 sobre 0
+empilhe 2 sobre 2
+mova 3 sobre 2
+mova 0 sobre 1
+mova 3 topo 2
+empilhe 1 sobre 1
+empilhe 3 topo 0
+mova 2 topo 0
+empilhe 2 sobre 1
+empilhe 1 sobre 3
+mova 1 sobre 4
+mova 3 topo 4
+empilhe 0 sobre 4
+empilhe 4 sobre 0
+mova 2 sobre 4
+empilhe 1 sobre 0
+mova 0 sobre 2
+mova 2 topo 0
+empilhe 2 sobre 3
+empilhe 4 sobre 4
+sair
+
+--- Program output ---
+0: 0 3 4 2 1
+1:
+2:
+3:
+4:
+
+--- Expected output (text)---
+0: 0 3 2 1 4
+1:
+2:
+3:
+4:
+
+Test 8: teste5
+Incorrect program output
+--- Input ---
+5
+mova 2 sobre 1
+empilhe 3 topo 0
+mova 1 topo 2
+mova 1 sobre 0
+empilhe 3 topo 2
+mova 2 sobre 2
+empilhe 1 topo 3
+empilhe 1 topo 4
+mova 4 sobre 3
+mova 1 topo 3
+mova 3 topo 3
+mova 3 sobre 4
+empilhe 1 sobre 0
+mova 3 sobre 2
+empilhe 3 sobre 4
+sair
+
+--- Program output ---
+0: 0 1
+1:
+2: 2
+3:
+4: 4 3
+
+--- Expected output (text)---
+0: 0 1
+1:
+2: 2 3 4
+3:
+4:
+
+
+Summary of tests
++------------------------------+
+| 12 tests run/ 6 tests passed |
++------------------------------+

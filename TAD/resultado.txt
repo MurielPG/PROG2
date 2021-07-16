@@ -1,0 +1,15 @@
+Iniciando avaliação de compilação.
+Acabou a avaliação de compilação.
+Iniciando avaliação de tempo máximo de execução.
+Acabou a avaliação de tempo máximo de execução.
+Iniciando avaliação de variável global.
+Iniciando avaliação das funcoes.
+Acabou a avaliação das funcoes.
+Iniciando avaliação de vazamento de memória.
+Verificado o vazamento de memória.
+Erros de vazamento de memoria: 12.
+Penalidade de 40%.
+Acabou a avaliacao de vazamento de memoria.
+Iniciando a avaliacao da funcao exit.
+Acabou a avaliacao da funcao exit.
+Acabou a avaliacao de variavel global.
