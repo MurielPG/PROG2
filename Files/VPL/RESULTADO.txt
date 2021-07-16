@@ -1,0 +1,26 @@
+? Iniciando avaliação de compilação.
+. :) - ok - Avaliação de compilacao.
+? Iniciando avaliação de tempo máximo de execuão.
+. :) - ok - Avaliação de tempo máximo de execução.
+? Iniciando as avaliações de execução do seu programa
+. lab-main.c : 323 : test_acesso_arquivo : PASSOU
+. lab-main.c : 325 : test_le_valores : PASSOU
+. lab-main.c : 327 : test_funcao_maior : PASSOU
+. lab-main.c : 329 : test_funcao_menor : PASSOU
+. lab-main.c : 331 : test_funcao_media : PASSOU
+. lab-main.c : 333 : test_funcao_desvio : PASSOU
+. lab-main.c : 335 : test_funcao_amplitude : PASSOU
+. lab-main.c : 337 : test_funcao_valor : PASSOU
+. :( - !! - Nota da avaliação das funções/programa: -11.0
+? Iniciando avaliação de bibliotecas e funções proibidas.
+. :) - ok - Avaliação de bibliotecas e funções proibidas.
+? Iniciando avaliação de variáveis globais.
+. :) - ok - Avaliação de variáveis globais.
+? Iniciando avaliação de uso de memória.
+. :( - !! - Você teve 1 erros de manipulação de memória.
+. :( - !! - Estes erros irão resultar em 2.51% de desconto.
+. :( - !! - O desconto máximo é de até 25.00%
+. :( - !! - Fórmula de descontos: 25 * 1 / (1 + 10 * e^(-0.11 * erros))
+:( Desconto total de 2.51%.
+Você pode acessar os resultados da avaliacao aqui: não consegui postar o resultado...
+Notal final: -10.0
