@@ -1,0 +1,14 @@
+? Iniciando avaliação de compilação.
+. :) - ok - Avaliação de compilacao.
+? Iniciando avaliação de tempo máximo de execuão.
+. :) - ok - Avaliação de tempo máximo de execução.
+? Iniciando as avaliações de execução do seu programa
+. lab-main.c : 677 : test_lista_cria : PASSOU
+. lab-main.c : 678 : test_lista_destroi : PASSOU
+. lab-main.c : 679 : test_lista_inicializada : PASSOU
+. lab-main.c : 680 : test_lista_tamanho : PASSOU
+. lab-main.c : 681 : test_lista_info_cabeca : PASSOU
+. lab-main.c : 682 : test_lista_info_cauda : PASSOU
+. lab-main.c : 159 : test_lista_info_posicao : FALHOU: Esperava 1 encontrou -1
+. lab-main.c : 684 : test_lista_insere_cabeca : PASSOU
+. :( - !! - Falha de segmentação

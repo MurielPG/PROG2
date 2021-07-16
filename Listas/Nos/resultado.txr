@@ -1,0 +1,37 @@
+? Iniciando avaliação de compilação.
+. :) - ok - Avaliação de compilacao.
+? Iniciando avaliação de tempo máximo de execuão.
+. :) - ok - Avaliação de tempo máximo de execução.
+? Iniciando as avaliações de execução do seu programa
+. lab-main.c : 677 : test_lista_cria : PASSOU
+. lab-main.c : 678 : test_lista_destroi : PASSOU
+. lab-main.c : 679 : test_lista_inicializada : PASSOU
+. lab-main.c : 680 : test_lista_tamanho : PASSOU
+. lab-main.c : 681 : test_lista_info_cabeca : PASSOU
+. lab-main.c : 682 : test_lista_info_cauda : PASSOU
+. lab-main.c : 683 : test_lista_info_posicao : PASSOU
+. lab-main.c : 684 : test_lista_insere_cabeca : PASSOU
+. lab-main.c : 685 : test_lista_insere_cauda : PASSOU
+. lab-main.c : 686 : test_lista_insere_posicao : PASSOU
+. lab-main.c : 687 : test_lista_remove_cabeca : PASSOU
+. lab-main.c : 688 : test_lista_remove_cauda : PASSOU
+. lab-main.c : 689 : test_lista_remove_posicao : PASSOU
+. lab-main.c : 690 : test_lista_remove_primeir : PASSOU
+. lab-main.c : 691 : test_lista_remove_todas : PASSOU
+. lab-main.c : 692 : test_lista_frequencia_inf : PASSOU
+. lab-main.c : 693 : test_lista_ordenada : PASSOU
+. lab-main.c : 694 : test_lista_insere_ordenad : PASSOU
+. lab-main.c : 695 : test_lista_compara : PASSOU
+. lab-main.c : 696 : test_lista_reverte : PASSOU
+. lab-main.c : 668 : test_lista_cria_copia : FALHOU: Esperava 1 encontrou 0
+. :( - !! - Nota da avaliação das funções/programa: 9.5
+? Iniciando avaliação de warnings.
+. :) - ok - Avaliação de warnings de compilação.
+? Iniciando avaliação de bibliotecas e funções proibidas.
+. :) - ok - Avaliação de bibliotecas e funções proibidas.
+? Iniciando avaliação de variáveis globais.
+. :) - ok - Avaliação de variáveis globais.
+? Iniciando avaliação de uso de memória.
+. :) - ok - Avaliação de manipulação de memória concluída.
+:D Sem descontos no restante das avaliações!
+Notal final: 9.5
